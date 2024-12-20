@@ -40,6 +40,6 @@
         <Button Name="AddStudentButton" Grid.Column="2" Grid.Row="2" Margin="4" Click="AddStudentButton_Click">Добавить</Button>
         <TextBox Name="StudentNameTextbox" Grid.Column="3" Grid.Row="2" VerticalAlignment="Center">Новый студент</TextBox>
         <Button Name="DeleteStudentButton" Grid.Column="2" Grid.Row="4" Margin="4" Click="DeleteStudentButton_Click">Удалить</Button>
-        <Label Name="Credits" Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="2">Разработали студенты группы М4О-413Б-21 Филатов И.А, Опанасюк Д.Ю, Москаленко А.В. </Label>
+        <Label Name="Credits" Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="2">Разработали студенты группы М4О-413Б-21 Филатов И.А, Опанасюк Д.Ю, Москаленко А.В.</Label>
     </Grid>
 </Window>
